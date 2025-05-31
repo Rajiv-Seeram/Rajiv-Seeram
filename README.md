@@ -3,6 +3,6 @@
 <h2>Software Development Projects:</h2>
 
 <ul>
-  <li><a href="https://github.com/Quintessence133/LLM">LLM Text Editor</a></li>
+  <li><a href="https://github.com/Rajiv-Seeram/LLM">LLM Text Editor</a></li>
   -A project with three types of users who each interact with the website in different ways through the use of a token system. The product additionally features many functionality items to enhance interactions with the website.
 </ul>
